@@ -1,6 +1,8 @@
 # TrackML Competition
 This repository contains my approach that won a gold medal (11th place) in the [TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification) on Kaggle.
 
+![](https://storage.googleapis.com/kaggle-media/competitions/CERN/cern_graphic.png)
+
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 For any problem please contact me at andri27@hotmail.it
