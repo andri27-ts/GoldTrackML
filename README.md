@@ -74,6 +74,8 @@ Arguments:
 ## Directory structure
 
 ```
+Documentation.pdf -> Project documentation
+
 detector_geometry.py -> Contains the code to predict the volume, layer and module of a hit.
 merging_tracks.py -> Contains functions to merge two or more tracks
 predict.py -> Predict the tracks
